@@ -38,9 +38,9 @@ Build innovative projects that solve real-world problems.
 
 📫 Connect With Me
 
-Email: [Your Email Here]  
-LinkedIn: [Your LinkedIn Profile Link]  
-Portfolio: [Your Portfolio Link, if available]
+Email: [...]  
+LinkedIn: [...]  
+Portfolio: [...]
 
 
 ⚡ Fun Fact
